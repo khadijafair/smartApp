@@ -1,0 +1,12 @@
+watch
+scissors
+money
+cups
+chairs
+faces
+headphones
+laptops
+pizza
+wheelchair
+wrench
+umbrella
